@@ -294,7 +294,7 @@ class PayChequeAPI {
                 "currency",
                 "chequePerUser",
                 "usersNumber",
-                "sendNotification",
+                "sendNotifications",
                 "enableCaptcha",
                 "refProgram",
                 "forPremium",
